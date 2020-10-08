@@ -1,7 +1,7 @@
 # cache_drop
 A very small program I wrote to learn windows batch scripting. This helps delete the __pycache__ file without .gitignore file to smoothly merge backend.
 ### Parameter
-Pass the parent directory that contains the backend.\n 
+Pass the parent directory that contains the backend.<br />
 > \> cache_drop D:\Project\Backend-Api
 
 ### When new NBA folders are added?
